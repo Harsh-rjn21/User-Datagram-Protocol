@@ -2,18 +2,18 @@ USER DATAGRAM PROTOCOL
 
 Welcome to the documentation for our website which teaches UDP. Our website is aimed to provide an easy-to-understand introduction to the ideas of UDP , with a focus on practicing problems.
 
+website link:
+https://illustrious-empanada-8ebe71.netlify.app/
+
 
 Repository Link:
-https://github.com/Harsh-rjn21/Udp_Protocal_explo_project
-
+https://github.com/Harsh-rjn21/User-Datagram-Protocol
 
 How to Run?
 
 1) Clone the repository: Use the "git clone" command to clone the repository to your local machine. For example, if the repository URL is "https://github.com/username/repo.git", you can run the command "git clone https://github.com/username/repo.git" in your terminal to clone the repository, and you're all set to start.
 
 2) After cloning, you can run the index.html file which will direct you to the home page of the website.
-
-
 
 Description of Code base
 
@@ -22,8 +22,7 @@ Description of Code base
 2) It consists of-
 
     media – contains all the images used in the website
-
-	-bg.jpg – used as background
+	    -bg.jpg – used as background
 
     index.html -home page
 
@@ -32,7 +31,6 @@ Description of Code base
     style.css -all styling content
 
     test.js -contains JavaScript 
-
 
 
 All about Its Working!
