@@ -24,7 +24,7 @@ Description of Code base
     - index.html -home page
     - path.html -demo page
     - style.css -all styling content
-    - test.js -contains JavaScript 
+    - script.js -contains JavaScript 
 
 All about Its Working!
 
